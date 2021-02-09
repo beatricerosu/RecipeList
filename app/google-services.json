@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043878985032",
+    "project_id": "recipelist-cc253",
+    "storage_bucket": "recipelist-cc253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043878985032:android:0df415061a3cf75376c77d",
+        "android_client_info": {
+          "package_name": "com.rosu.recipelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043878985032-m6iviu2lq4n216r8hp5h2hho6v2sroq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoB0vIAF-Hs0XLuk-11UeNbBciiQusmsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043878985032-m6iviu2lq4n216r8hp5h2hho6v2sroq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
